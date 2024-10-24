@@ -1,4 +1,4 @@
-# Tienda de Productos - Integrador JS
+# Integrador FrontEnd
 
 ¡Bienvenido al repositorio de la **Tienda de Productos**! En este proyecto, he desarrollado una tienda interactiva donde los usuarios pueden **añadir, eliminar, modificar y filtrar productos** utilizando **HTML, CSS y JavaScript**, almacenando la información en el **Local Storage** del navegador.
 
@@ -31,7 +31,7 @@ Las funcionalidades principales de la tienda son:
 ## ✅ Visualización
 
 Puedes ver el proyecto en el siguiente enlace:  
-https://front-end-integrador-6q79oi8yv-valentino-isgros-projects.vercel.app
+https://integrador-front-end-silk.vercel.app/
 
 ---
 
